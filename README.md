@@ -75,13 +75,13 @@ Composi does not have its own router. That is beyond the scope of the aim of the
 
 ## Github Examples
 
-- [Counters](https://github.com/composor/counters)
-- [Temperature Converter](https://github.com/composor/temperature-converter)
-- [Spreadsheet](https://github.com/composor/spreadsheet)
-- [Canvas Clock](https://github.com/composor/canvas-clock)
-- [Svg Clock](https://github.com/composor/svg-clock)
-- [Calculator](https://github.com/composor/calculator)
-- [Todo List](https://github.com/composor/todo-list)
+- [Counters](https://github.com/composor/counters) - Dynamically add or delete multiple counters and get their total.
+- [Temperature Converter](https://github.com/composor/temperature-converter) - Converts temperature between Fahrenheit and Celsius, while showing the boiling point.
+- [Spreadsheet](https://github.com/composor/spreadsheet) - A simple spreadsheet solution. You can add or delete items.
+- [Canvas Clock](https://github.com/composor/canvas-clock) - A simple animated clock drawn with canvas element.
+- [Svg Clock](https://github.com/composor/svg-clock) - A simple animated clock rendered with SVG.
+- [Calculator](https://github.com/composor/calculator) - An example of a basic calculator for addition, subtraction, multiplication and division.
+- [Todo List](https://github.com/composor/todo-list) - TodoMVC without the MVC. Refactored as a component.
 
 ## Contributing
 
