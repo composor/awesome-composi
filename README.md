@@ -74,7 +74,7 @@ Composi does not have its own router. That is beyond the scope of the aim of the
 - [Calculator](https://codepen.io/rbiggs/pen/EbNKKP?editors=0110) - A simple calculator.
 - [Tic-Tac-Toe](https://codepen.io/rbiggs/pen/POpMMzs) - An example of immutable data with time travel.
 - [Coin Toss](https://codepen.io/rbiggs/pen/cada51424c4d9f3cee69aa2f1a7a10f6?editors=1010) - A Coin Toss component, just because we can.
-- [Dancing Pythagoras Tree](https://codepen.io/hyperapp/pen/JJVzBW?q=hyperapp&limit=all&type=type-pens) - Animated SVG tree using D3.
+- [Dancing Pythagoras Tree](https://codepen.io/rbiggs/pen/dd146f0881067670fe80764f6b810d7d/?editors=0011) - Animated SVG tree using D3.
 
 ## Github Examples
 
