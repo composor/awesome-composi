@@ -75,6 +75,7 @@ Composi does not have its own router. That is beyond the scope of the aim of the
 - [Tic-Tac-Toe](https://codepen.io/rbiggs/pen/POpMMz) - An example of immutable data with time travel.
 - [Coin Toss](https://codepen.io/rbiggs/pen/cada51424c4d9f3cee69aa2f1a7a10f6?editors=1010) - A Coin Toss component, just because we can.
 - [Dancing Pythagoras Tree](https://codepen.io/rbiggs/pen/dd146f0881067670fe80764f6b810d7d/?editors=0011) - Animated SVG tree using D3.
+- [Image Browser with Popups](https://codepen.io/rbiggs/pen/qVxvOp/?editors=0110) - An image browser that lets you popup the images like a light table.
 
 ## Github Examples
 
@@ -86,6 +87,7 @@ Composi does not have its own router. That is beyond the scope of the aim of the
 - [Calculator](https://github.com/composor/calculator) - An example of a basic calculator for addition, subtraction, multiplication and division.
 - [Todo List](https://github.com/composor/todo-list) - TodoMVC without the MVC. Refactored as a component.
 - [Tic-Tac-Toe](https://github.com/composor/tic-tac-toe) - This shows how to keep component state immutable for time travel.
+- [Image Browser](https://github.com/composor/image-browser) - This is a basic image browser with a popup for closer view of image.
 
 ## Contributing
 
