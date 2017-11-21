@@ -87,6 +87,7 @@ Composi does not have its own router. That is beyond the scope of the aim of the
 - [Calculator](https://github.com/composor/calculator) - An example of a basic calculator for addition, subtraction, multiplication and division.
 - [Todo List](https://github.com/composor/todo-list) - TodoMVC without the MVC. Refactored as a component.
 - [Tic-Tac-Toe](https://github.com/composor/tic-tac-toe) - This shows how to keep component state immutable for time travel.
+- [Pythagoras Dancing Tree](https://github.com/composor/pythagoras-dancing-tree) - An animtated SVG tree using D3.
 - [Image Browser](https://github.com/composor/image-browser) - This is a basic image browser with a popup for closer view of image.
 
 ## Contributing
