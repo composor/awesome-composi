@@ -45,7 +45,7 @@
 ## Client Side Routing
 
 Composi does not have its own router. That is beyond the scope of the aim of the project.
-However, we do have a separate router that we like to use with Composi called [composi-router](https://www.npmjs.com/package/composi-router). 
+However, we do have a separate router that we like to use with Composi called [composi-router](https://www.npmjs.com/package/composi-router). Example of usage: [Tour of Heroes](https://github.com/composor/tour-of-heroes)
 
 You could also use any of the following popular client side routing libraries:
 
