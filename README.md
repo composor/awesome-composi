@@ -81,6 +81,7 @@ You could also use any of the following popular client side routing libraries:
 - [Image Browser with Popups](https://codepen.io/rbiggs/pen/qVxvOp/?editors=0110) - An image browser that lets you popup the images like a light table.
 - [Hacker News Minimal](https://codepen.io/rbiggs/pen/5677c6c41f570018e93a7898a33c3860/?editors=1010) - A minimal implementation of Hacker New that lets you sort be popularity.
 - [Tour of Heroes](https://codepen.io/rbiggs/pen/xPQXWY/) - The famour Angular Tour of Heroes project converted to use Composi. This also uses Routie for client side routing, which conditional loads subcomponents.
+- [Composi Slideshow](https://codepen.io/rbiggs/pen/VywZWE) - A simple, animated slideshow.
 
 ## Github Examples
 
@@ -96,6 +97,7 @@ You could also use any of the following popular client side routing libraries:
 - [Image Browser](https://github.com/composor/image-browser) - This is a basic image browser with a popup for closer view of image.
 - [Hacker News Minimal](https://github.com/composor/hacker-news-minimal) - This is a minimalistic Hacker News viewer. You can sort by popularity or rest to original order.
 - [Tour of Heroes](https://github.com/composor/tour-of-heroes) - The Angular Tour of Heroes project converted to using Composi, complete with client-side routing to conitionally render components.
+- [Composi Slideshow](https://github.com/composor/composi-slideshow) - A simple, animated slideshow.
 
 ## Contributing
 
