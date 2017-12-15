@@ -82,6 +82,7 @@ You could also use any of the following popular client side routing libraries:
 - [Hacker News Minimal](https://codepen.io/rbiggs/pen/5677c6c41f570018e93a7898a33c3860/?editors=1010) - A minimal implementation of Hacker New that lets you sort be popularity.
 - [Tour of Heroes](https://codepen.io/rbiggs/pen/xPQXWY/) - The famour Angular Tour of Heroes project converted to use Composi. This also uses Routie for client side routing, which conditional loads subcomponents.
 - [Composi Slideshow](https://codepen.io/rbiggs/pen/VywZWE) - A simple, animated slideshow.
+- [Rick-n-Morty](https://github.com/composor/rick-n-morty) - A site to explore Rick-n-Morty cartoon characters.
 
 ## Github Examples
 
@@ -98,6 +99,8 @@ You could also use any of the following popular client side routing libraries:
 - [Hacker News Minimal](https://github.com/composor/hacker-news-minimal) - This is a minimalistic Hacker News viewer. You can sort by popularity or rest to original order.
 - [Tour of Heroes](https://github.com/composor/tour-of-heroes) - The Angular Tour of Heroes project converted to using Composi, complete with client-side routing to conitionally render components.
 - [Composi Slideshow](https://github.com/composor/composi-slideshow) - A simple, animated slideshow.
+- [Rick-n-Morty](https://codepen.io/rbiggs/pen/opXdKz) - A site to explore Rick-n-Morty cartoon characters.
+
 
 ## Contributing
 
