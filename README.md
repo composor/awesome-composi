@@ -30,6 +30,7 @@
 
 - [stylor](https://www.npmjs.com/package/stylor) - A module that creates virtual stylesheets for component-scoped styles.
 - [pubber](https://www.npmjs.com/package/pubber) - A tiny pubsub library for communication between components
+- [taggers](https://www.npmjs.com/package/taggers) - Module that enabled use of named hyperscript tags as an alternative to JSX.
 
 ## State Management
 - [Redux](http://redux.js.org) - Redux is a predictable state container for JavaScript apps.
